@@ -23,3 +23,6 @@ sudo raspistill -o @@@@.jpg
 
  - 撮った写真をCUIで見る  
 https://iot-plus.net/make/raspi/raspistill-continuous-shooting-displays-on-cui-using-frame-buffer-with-ssh-connection/
+
+ - エッジコンピューティング
+ https://jellyware.jp/kurage/openvino/c01_overview.html
