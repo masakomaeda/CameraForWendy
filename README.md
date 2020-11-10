@@ -26,3 +26,5 @@ https://iot-plus.net/make/raspi/raspistill-continuous-shooting-displays-on-cui-u
 
  - エッジコンピューティング
  https://jellyware.jp/kurage/openvino/c01_overview.html
+
+https://qiita.com/K_M95/items/41a24d7639cffc629227
